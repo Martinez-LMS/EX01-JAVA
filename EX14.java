@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class EX14 {
-    public static void main(String[] args) {
+public class Ex14 {
+    public static void executar() {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Digite o valor do primeiro termo (a1): ");

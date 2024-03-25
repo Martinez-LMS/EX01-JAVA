@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class EX15 {
-    public static void main(String[] args) {
+public class Ex15 {
+    public static void executar() {
         Scanner imprimir = new Scanner(System.in);
 
         System.out.println("Digite as coordenadas do ponto P1 (x1, y1): ");

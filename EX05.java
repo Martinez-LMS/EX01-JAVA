@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class EX05 {
+public class Ex05 {
 
-    public static void main(String[] args) {
+    public static void executar() {
     Scanner imprimir = new Scanner(System.in);
 
     System.out.println("Digite o valor A: ");

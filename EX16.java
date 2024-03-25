@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class EX16 {
-    public static void main(String[] args) {
+public class Ex16 {
+    public static void executar() {
         Scanner imprimir = new Scanner(System.in);
 
         System.out.println("Digite a primeira nota: ");

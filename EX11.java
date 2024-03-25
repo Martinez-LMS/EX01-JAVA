@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class EX11 {
-    public static void main(String[] args) {
+public class Ex11 {
+    public static void executar() {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Digite o primeiro valor: ");

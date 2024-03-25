@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class EX10 {
-    public static void main(String[] args) {
+public class Ex10 {
+    public static void executar() {
         Scanner imprimir = new Scanner(System.in);
 
         System.out.println("Digite o numero de 1 a 5: ");

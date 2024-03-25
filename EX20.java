@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class EX20 {
-    public static void main(String[] args) {
+public class Ex20 {
+    public static void executar() {
         Scanner imprimir = new Scanner(System.in);
 
         System.out.println("Digite o tempo da viagem em horas: ");

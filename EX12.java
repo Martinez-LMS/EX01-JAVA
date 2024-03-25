@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class EX12 {
-    public static void main(String[] args) {
+public class Ex12 {
+    public static void executar() {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Digite o número do mês (1 a 12): ");

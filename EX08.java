@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class EX08 {
-    public static void main(String[] args) {
+public class Ex08 {
+    public static void executar() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite um número: ");
